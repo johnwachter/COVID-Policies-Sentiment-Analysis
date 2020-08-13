@@ -23,6 +23,6 @@ Below are two dashboards that provide an overview of the Twiter data and the Goo
 ![Overview of Tweets](/images/TweetsOverview.PNG)
 
 
-![Overview of Mobility](/images/575 Mobility & Case Count Dashboard.PNG)
+![Overview of Mobility](/images/Mobility_CaseCounts.PNG)
 
 
