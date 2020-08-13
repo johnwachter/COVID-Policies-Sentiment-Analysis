@@ -27,5 +27,5 @@ Below are two static images of interactive dashboards that provide an overview o
 
 ![Overview of Mobility](/images/Mobility_CaseCounts.PNG)
 
-
-A latent dirichelet allocation model was used to generate topics, and the [models](/lda_models) are available on this repo. Please note that the html files don't render well in github, but [here](https://htmlpreview.github.io/?https://github.com/johnwachter/COVID-Policies-Sentiment-Analysis/blob/master/lda_models/LDA_Vis_Mod1.html) is an example of one model. 
+## Modeling
+In order to identify the abstract topics from our collection of tweets, we used a Latent Dirichlet Allocation (LDA) model. This generative probabilistic model is part of Natural Language Processing and aims to surface similarities in documents or in this case tweets, through overlapping language. The distribution and root meaning of the words within the corpus are used to determine individual topics. More details on modeling choices can be found in [this jupyter notebook](https://github.com/johnwachter/COVID-Policies-Sentiment-Analysis/blob/master/scripts/Text%20Analysis%20of%20Tweets.ipynb), and the [models](/lda_models) are available on this repo. Please note that the html files don't render well in github, but [here](https://htmlpreview.github.io/?https://github.com/johnwachter/COVID-Policies-Sentiment-Analysis/blob/master/lda_models/LDA_Vis_Mod1.html) is an example of one model. 
