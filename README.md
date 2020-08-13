@@ -1,8 +1,7 @@
 ## COVID-Policies-Sentiment-Analysis
 Partial Collection of data, scripts, and reporting from a project looking at public sentiment toward COVID mitigation policies
 
-## Microblogging platforms like Twitter provide a robust pipeline for examining public perceptions during crisis events.
-## Twitter’s real time coverage of crisis events serves as both a mode of information sharing and a platform for engaging in topical discourse. These content sharing practices encapsulate the views and opinions of users providing a meaningful avenue for analyzing public sentiment at scale during crises.
+## Microblogging platforms like Twitter provide a robust pipeline for examining public perceptions during crisis events. Twitter’s real time coverage of crisis events serves as both a mode of information sharing and a platform for engaging in topical discourse. These content sharing practices encapsulate the views and opinions of users providing a meaningful avenue for analyzing public sentiment at scale during crises.
 
 ## Research Objectives
 Limiting the scope to two states (Washington and Florida) in the country that has the largest number of recorded infections, it is hypothesized that there are regional differences in how the population perceives COVID-19 mitigation strategies and that these perceptions and viewpoints will be shared on Twitter and be reflected in the practices and mobility patterns of different states. 
