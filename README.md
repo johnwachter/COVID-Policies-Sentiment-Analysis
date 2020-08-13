@@ -28,3 +28,4 @@ Below are two static images of interactive dashboards that provide an overview o
 ![Overview of Mobility](/images/Mobility_CaseCounts.PNG)
 
 
+A latent dirichelet allocation model was used to generate topics, and the [models](/lda_models) are available on this repo. Please note that the html files don't render well in github, but [here](https://htmlpreview.github.io/?https://github.com/johnwachter/COVID-Policies-Sentiment-Analysis/blob/master/lda_models/LDA_Vis_Mod1.html) is an example of one model. 
